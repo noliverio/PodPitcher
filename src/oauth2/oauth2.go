@@ -8,5 +8,3 @@ import (
 func main() {
 	fmt.Println("vim-go")
 }
-
-func 
